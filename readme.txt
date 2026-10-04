@@ -18,3 +18,8 @@ Hello Starting learning DSA daily task update here
     -solved find the missing number {two pointers} // leetcode 
     - solved Union of Two Sorted Array {Two pointers} // GFG
     - solved Intersection of Two Sorted Array {Two pointers} // GFG
+
+#Date 04/10/2026
+    - revision {Move Zeros to End, Left Rotate Array by One, Reverse an Array}
+    -solved Majority Element {Moore's Voting Algorithm} leetcode
+    -solved Leaders in an Array GFG 
