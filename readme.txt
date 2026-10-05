@@ -21,5 +21,10 @@ Hello Starting learning DSA daily task update here
 
 #Date 04/10/2026
     - revision {Move Zeros to End, Left Rotate Array by One, Reverse an Array}
-    -solved Majority Element {Moore's Voting Algorithm} leetcode
-    -solved Leaders in an Array GFG 
+    -solved Majority Element {Moore's Voting Algorithm}  // leetcode
+    -solved Leaders in an Array  // GFG
+
+#Date 05/10/2026
+    -revision {Move Zeros to End, Left Rotate Array by One, Reverse an Array}
+    -solved Two Sum Problem {HashMap}  // leetcode 
+    -solved Rearrange Array Elements By Sign  // leetcode
