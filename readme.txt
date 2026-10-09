@@ -28,3 +28,13 @@ Hello Starting learning DSA daily task update here
     -revision {Move Zeros to End, Left Rotate Array by One, Reverse an Array}
     -solved Two Sum Problem {HashMap}  // leetcode 
     -solved Rearrange Array Elements By Sign  // leetcode
+
+#Date 08/10/2026
+    -revision
+    -solved Matrix in spiral manner //leetcode
+
+#Date 09/10/2026
+    -revision
+    -solved Pascal's Triangle I {Genrate the nth row} //leetCode
+    -solved Pascal's Triangle II {Genrate the entire Pascal's Triangle} // leetCode
+    -solved Pascal's Triangle III {Find the value at (row, col)} 
