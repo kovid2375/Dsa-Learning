@@ -39,6 +39,16 @@ Hello Starting learning DSA daily task update here
     -solved Pascal's Triangle II {Genrate the entire Pascal's Triangle} // leetCode
     -solved Pascal's Triangle III {Find the value at (row, col)} 
 
+# Date 10/10/2026
+    -revision
+    -solved Rotate Image or Rotate matrix by 90deg (Transpose matrix pattern) //leetCode
+
+#Date 11/10/2026
+    -revision
+    -solved Set Matrix Zeros //leetCode
+
+
 #Date 12/10/2026
     -revision
     -solved the 3Sum Problem {Two Pointers(Brute force solution,Better solution and Optimal solution)} // leetCode 
+
