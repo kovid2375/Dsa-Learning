@@ -52,3 +52,6 @@ Hello Starting learning DSA daily task update here
     -revision
     -solved the 3Sum Problem {Two Pointers(Brute force solution,Better solution and Optimal solution)} // leetCode 
 
+#Date 13/10/2026
+    -revision
+    -solved the 4Sum Problem {Two Pointers(Brute force solution,Better solution and Optimal solution)} // leetCode 
