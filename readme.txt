@@ -55,3 +55,7 @@ Hello Starting learning DSA daily task update here
 #Date 13/10/2026
     -revision
     -solved the 4Sum Problem {Two Pointers(Brute force solution,Better solution and Optimal solution)} // leetCode 
+
+#Date 14/10/2026
+    -revision
+    -solved Sort Colors Problem {Dutch National Flag Algorithm} // leetCode 
