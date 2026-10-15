@@ -59,3 +59,8 @@ Hello Starting learning DSA daily task update here
 #Date 14/10/2026
     -revision
     -solved Sort Colors Problem {Dutch National Flag Algorithm} // leetCode 
+
+
+#Date 15/10/2026
+    -revision
+    --solved Maximum Subarray Sum {Kaddane's Algorithm (Brute force solution,Better solution and Optimal solution)} // leetCode
