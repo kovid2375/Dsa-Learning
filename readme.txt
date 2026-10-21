@@ -64,3 +64,7 @@ Hello Starting learning DSA daily task update here
 #Date 15/10/2026
     -revision
     --solved Maximum Subarray Sum {Kaddane's Algorithm (Brute force solution,Better solution and Optimal solution)} // leetCode
+
+# Date 21/10/2026
+    -revision
+    -solved Next Permutation {Brute force solution and Optimal solution} // leetCode
