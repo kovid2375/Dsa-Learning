@@ -68,3 +68,8 @@ Hello Starting learning DSA daily task update here
 # Date 21/10/2026
     -revision
     -solved Next Permutation {Brute force solution and Optimal solution} // leetCode
+
+#Date 23/10/2026
+    -revision
+    -solved Merge Sorted Array {Brute force solution,Better solution and Optimal solution(Gap Algorithm)} // leetCode
+    -solved Majority element 2 {Boyer Moore's Voting Algorithm} //leetCode
