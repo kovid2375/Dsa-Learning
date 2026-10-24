@@ -77,3 +77,7 @@ Hello Starting learning DSA daily task update here
 #Date 23/10/2026
     -revision
     -solved Maximum Product Subarray{Brute force solution and Optimal solution} // leetCode
+
+#Date 24/10/2026
+    -revision
+    -solved ReversePairs {Merge Sort{Brute Force and Optimal solution}} // leetCode 
