@@ -81,3 +81,7 @@ Hello Starting learning DSA daily task update here
 #Date 24/10/2026
     -revision
     -solved ReversePairs {Merge Sort{Brute Force and Optimal solution}} // leetCode 
+
+#Date 27/10/2026
+    -revision
+    -solved Repeating and Missing Numbers {Brute Force and Optimal solution(Set)} 
